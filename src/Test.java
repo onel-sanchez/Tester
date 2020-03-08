@@ -27,7 +27,7 @@ public class Test
             System.out.println(printHandCards);
             //If user doesn't want to draw another hand the option value is
             //changed to the NO_OPTION value and this ends the while loop
-            option = JOptionPane.showConfirmDialog(null, "Oscar Malo Do you want to draw "
+            option = JOptionPane.showConfirmDialog(null, "Oscarr Malor Do you want to draw "
                     + "another hand from the deck?", "Draw Hand", 0);
         }
     }
